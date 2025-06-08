@@ -23,7 +23,7 @@ This project predicts house prices in Mumbai using advanced regression models in
 Shows which columns contain null values.  
 📌 *Used to decide what to drop/fill.*
 
-📷 ![Missing Values Heatmap](![Image](https://github.com/user-attachments/assets/15b62315-081f-4c3d-bb17-d49c73076e9a))
+📷 ![Missing Values Heatmap](![Image](https://github.com/user-attachments/assets/15b62315-081f-4c3d-bb17-d49c73076e9a)
 
 ### ▶️ Price Distribution  
 Displays how house prices are spread across the dataset.
