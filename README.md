@@ -28,7 +28,7 @@ Shows which columns contain null values.
 ### ▶️ Price Distribution  
 Displays how house prices are spread across the dataset.
 
-📷 ![Price Distribution](images/price_dist.png)
+📷 ![Price Distribution](https://github.com/user-attachments/assets/6b7a84c6-3293-49b9-95a5-ba877e23f8bc)
 
 ### ▶️ Correlation Heatmap  
 Shows correlation between numeric features to understand dependencies.
