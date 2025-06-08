@@ -120,7 +120,7 @@ Joblib (for model export)
 
 
 ## 📬 Contact
-Name: Riya
+Name:  RIYA DEWANGAN
 
 Email: riyadew77@gmail.com
 
