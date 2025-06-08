@@ -76,7 +76,7 @@ Metrics used:
 
 Helps us know which features influenced price prediction the most.
 
-📷 ![Feature Importance](images/feature_importance.png)
+📷 ![Feature Importance](https://github.com/user-attachments/assets/eb8b280f-074c-4e29-831b-a9c2235ab240)
 
 ---
 
