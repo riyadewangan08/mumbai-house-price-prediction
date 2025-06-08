@@ -81,7 +81,7 @@ Helps us know which features influenced price prediction the most.
 ---
 
 
-
+## residual distribution
 Checks how much predicted price deviated from actual price.
 
  ![Residuals Distributiom](https://github.com/user-attachments/assets/198a5e9f-c8e2-47d1-af27-bb978a03642e)
