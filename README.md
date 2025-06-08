@@ -80,11 +80,20 @@ Helps us know which features influenced price prediction the most.
 
 ---
 
-## 🧪 Residuals Plot
+
 
 Checks how much predicted price deviated from actual price.
 
  ![Residuals Distribution]![Image](https://github.com/user-attachments/assets/198a5e9f-c8e2-47d1-af27-bb978a03642e)
+
+## 👩‍💻 Tools Used
+Python, Jupyter Notebook
+
+Pandas, NumPy, Seaborn, Matplotlib
+
+Scikit-learn
+
+Joblib (for model export)
 
 ## Business Insights
 📍 Location, Area, and Number of Bedrooms play the most crucial role in predicting prices.
@@ -97,7 +106,7 @@ Checks how much predicted price deviated from actual price.
 
 🔍 EDA helped in detecting outliers and missing trends
 
-📃 Conclusion
+## 📃 Conclusion
 ✅ This project reflects a full ML pipeline for regression analysis.
 
 ✅ Performed complete data cleaning, visualization, modeling, and evaluation.
@@ -106,27 +115,7 @@ Checks how much predicted price deviated from actual price.
 
 📦 Model saved using joblib for deployment.
 
-# 👩‍💻 Tools Used
-Python, Jupyter Notebook
-
-Pandas, NumPy, Seaborn, Matplotlib
-
-Scikit-learn
-
-Joblib (for model export)
-
-
-## 📦 Prediction Example
-
-We predicted house price using a random sample from the test set.
-
-```python
-new_house = X_test.iloc[1].values.reshape(1, -1)
-predicted_price = rf.predict(new_house)[0]
-print(f"Predicted price: ₹{round(predicted_price)}")
-
-
-📬 Contact
+## 📬 Contact
 Name: Riya
 Email: riyadew77@gmail.com
 
