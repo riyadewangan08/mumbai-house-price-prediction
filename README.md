@@ -97,3 +97,38 @@ new_house = X_test.iloc[1].values.reshape(1, -1)
 predicted_price = rf.predict(new_house)[0]
 print(f"Predicted price: ₹{round(predicted_price)}")
 
+
+## 📌 Business Insights
+📍 Location, Area, and Number of Bedrooms play the most crucial role in predicting prices.
+
+🧠 Random Forest provides feature importance, even if its accuracy is slightly lower.
+
+🔁 Linear and Lasso performed equally with higher R² values.
+
+📈 Residuals indicate the model fits well (errors are normally distributed).
+
+🔍 EDA helped in detecting outliers and missing trends
+
+📃 Conclusion
+✅ This project reflects a full ML pipeline for regression analysis.
+
+✅ Performed complete data cleaning, visualization, modeling, and evaluation.
+
+📌 Can be extended with more features like nearby amenities, age of property, etc.
+
+📦 Model saved using joblib for deployment.
+
+# 👩‍💻 Tools Used
+Python, Jupyter Notebook
+
+Pandas, NumPy, Seaborn, Matplotlib
+
+Scikit-learn
+
+Joblib (for model export)
+
+📬 Contact
+Name: Riya
+Email: riyadew77@gmail.com
+
+
