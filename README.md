@@ -68,7 +68,7 @@ Metrics used:
 | Lasso Regression | 0.82     | ₹19.18 Lakh|
 | Random Forest    | 0.77     | ₹21.89 Lakh|
 
-📷 ![Prediction Comparison Graph](images/final_output.png)
+📷 ![Prediction Comparison Graph](https://github.com/user-attachments/assets/2b9aa8cc-fb4e-495b-a086-9e8f0cc1dec7)
 
 ---
 
