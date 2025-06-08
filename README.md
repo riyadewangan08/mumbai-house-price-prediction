@@ -33,7 +33,7 @@ Displays how house prices are spread across the dataset.
 ### ▶️ Correlation Heatmap  
 Shows correlation between numeric features to understand dependencies.
 
-📷 ![Correlation Heatmap](images/correlation_heatmap.png)
+📷 ![Correlation Heatmap](https://github.com/user-attachments/assets/5da883c7-9c14-4fa9-b3c5-f26f305f2995)
 
 ---
 
