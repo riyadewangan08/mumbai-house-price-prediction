@@ -68,7 +68,7 @@ Metrics used:
 | Lasso Regression | 0.82     | ₹19.18 Lakh|
 | Random Forest    | 0.77     | ₹21.89 Lakh|
 
-📷 ![Prediction Comparison Graph](https://github.com/user-attachments/assets/2b9aa8cc-fb4e-495b-a086-9e8f0cc1dec7)
+ ![Prediction Comparison Graph](https://github.com/user-attachments/assets/2b9aa8cc-fb4e-495b-a086-9e8f0cc1dec7)
 
 ---
 
@@ -76,7 +76,7 @@ Metrics used:
 
 Helps us know which features influenced price prediction the most.
 
-📷 ![Feature Importance](https://github.com/user-attachments/assets/eb8b280f-074c-4e29-831b-a9c2235ab240)
+ ![Feature Importance](https://github.com/user-attachments/assets/eb8b280f-074c-4e29-831b-a9c2235ab240)
 
 ---
 
@@ -84,7 +84,7 @@ Helps us know which features influenced price prediction the most.
 
 Checks how much predicted price deviated from actual price.
 
-📷 ![Residuals Distribution]![Image](https://github.com/user-attachments/assets/198a5e9f-c8e2-47d1-af27-bb978a03642e)
+ ![Residuals Distribution]![Image](https://github.com/user-attachments/assets/198a5e9f-c8e2-47d1-af27-bb978a03642e)
 
 ---
 
