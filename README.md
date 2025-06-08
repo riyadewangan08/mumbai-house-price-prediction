@@ -95,6 +95,7 @@ Scikit-learn
 
 Joblib (for model export)
 
+
 ## Business Insights
 📍 Location, Area, and Number of Bedrooms play the most crucial role in predicting prices.
 
@@ -106,6 +107,7 @@ Joblib (for model export)
 
 🔍 EDA helped in detecting outliers and missing trends
 
+
 ## 📃 Conclusion
 ✅ This project reflects a full ML pipeline for regression analysis.
 
@@ -115,8 +117,11 @@ Joblib (for model export)
 
 📦 Model saved using joblib for deployment.
 
+
+
 ## 📬 Contact
 Name: Riya
+
 Email: riyadew77@gmail.com
 
 
