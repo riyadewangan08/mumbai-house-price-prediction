@@ -86,19 +86,7 @@ Checks how much predicted price deviated from actual price.
 
  ![Residuals Distribution]![Image](https://github.com/user-attachments/assets/198a5e9f-c8e2-47d1-af27-bb978a03642e)
 
----
-
-## 📦 Prediction Example
-
-We predicted house price using a random sample from the test set.
-
-```python
-new_house = X_test.iloc[1].values.reshape(1, -1)
-predicted_price = rf.predict(new_house)[0]
-print(f"Predicted price: ₹{round(predicted_price)}")
-
-
-## 📌 Business Insights
+## Business Insights
 📍 Location, Area, and Number of Bedrooms play the most crucial role in predicting prices.
 
 🧠 Random Forest provides feature importance, even if its accuracy is slightly lower.
@@ -127,8 +115,21 @@ Scikit-learn
 
 Joblib (for model export)
 
+
+## 📦 Prediction Example
+
+We predicted house price using a random sample from the test set.
+
+```python
+new_house = X_test.iloc[1].values.reshape(1, -1)
+predicted_price = rf.predict(new_house)[0]
+print(f"Predicted price: ₹{round(predicted_price)}")
+
+
 📬 Contact
 Name: Riya
 Email: riyadew77@gmail.com
+
+
 
 
